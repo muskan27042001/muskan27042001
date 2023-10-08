@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan Bhardwaj</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android developer</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/muskan27042001/muskan27042001/assets/72308746/08cbb3d0-c117-4885-8c62-ad62af7d4465">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan27042001&label=Profile%20views&color=0e75b6&style=flat" alt="muskan27042001" /> </p>
 
